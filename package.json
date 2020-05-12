@@ -1,0 +1,24 @@
+{
+  "name": "excelcourse",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hovhannes92/excelCourse.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Hovhannes Asatryan <hovikasatryan92@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hovhannes92/excelCourse/issues"
+  },
+  "homepage": "https://github.com/Hovhannes92/excelCourse#readme"
+}
